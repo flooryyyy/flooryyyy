@@ -2,9 +2,8 @@
 
 cs grad (uk), looking for graduate/junior software roles.
 
-i run nixos everywhere, which tells you everything about my relationship with
-pain. i also self-host local llms, so most of what i build sits where linux,
-packaging, and ai tooling overlap.
+i run nixos everywhere and self-host local llms, so most of what i build sits
+where linux, packaging, and ai tooling overlap.
 
 **currently**
 
@@ -15,8 +14,8 @@ packaging, and ai tooling overlap.
 ![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![bash](https://img.shields.io/badge/bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![nix](https://img.shields.io/badge/nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
+![docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![c++](https://img.shields.io/badge/c%2B%2B-learning-grey?style=flat-square&logo=cplusplus&logoColor=white)
 
-<sub>open to graduate & junior engineering roles</sub>
+<sub>open to graduate & junior engineering roles · always learning something new</sub>
