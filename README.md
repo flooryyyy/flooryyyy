@@ -22,7 +22,7 @@ at home, i maintain NixOS-based infrastructure and self-host Docker Compose serv
 
 #### interests
 
-i'm interested in linux systems, open source, self-hosting, local ai, model inference, backend development, and service integrations. i'm also interested in gpu work, and in eventually learning about lower-level programming with C++ and Rust.
+i'm interested in linux systems, open source, self-hosting, local ai, model inference, backend development, and service integrations. i'd like to learn C++ and Rust eventually.
 
 #### where i'm heading
 
